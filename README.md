@@ -1,4 +1,3 @@
-![WhatsApp Image 2026-04-05 at 16 37 39 (2)](https://github.com/user-attachments/assets/744bb584-568b-48b2-baf5-58e80c1e188f)# tflix-tv-portfolio
 App IPTV Android TV - Portfolio (screenshots e demonstração)
 
 
