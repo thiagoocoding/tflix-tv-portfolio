@@ -2,7 +2,6 @@
 App IPTV Android TV - Portfolio (screenshots e demonstração)
 
 
-![WhatsApp Image 2026-04-05 at 16 37 39 (1)](https://github.com/user-attachments/assets/aae9bd0d-0c81-41aa-8e43-e70e83e95c4c)
 ![WhatsApp Image 2026-04-05 at 17 30 31](https://github.com/user-attachments/assets/0b0896db-5243-499f-8869-c930539c892c)
 ![WhatsApp Image 2026-04-05 at 16 37 39 (2)](https://github.com/user-attachments/assets/f7a9bb06-7d30-41da-bed5-a40bc888fb4b)
 ![WhatsApp Image 2026-04-05 at 16 37 38](https://github.com/user-attachments/assets/ec7460ea-5237-4954-b63f-99d1fe8edb00)
