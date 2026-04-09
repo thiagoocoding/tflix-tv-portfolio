@@ -1,4 +1,72 @@
 App IPTV Android TV - Portfolio (screenshots e demonstração)
+# 📺 TFlixTV - App IPTV Android TV
+
+Aplicativo IPTV desenvolvido em Kotlin para Android TV, com foco em performance, navegação via controle remoto (D-pad) e experiência de usuário moderna estilo streaming.
+
+---
+
+## 🚀 Funcionalidades
+
+- 📡 TV ao vivo com categorias
+- 🎬 Filmes e séries organizados
+- ▶️ Player integrado (ExoPlayer / VLC)
+- ⚡ Cache inteligente para carregamento rápido
+- ⭐ Sistema de favoritos
+- ⏯️ Continue assistindo
+- 🎮 Navegação otimizada para controle remoto (Android TV)
+- 🎨 Interface moderna inspirada em plataformas de streaming
+
+---
+
+## 🧠 Tecnologias utilizadas
+
+- 🟣 Kotlin
+- 📺 Android TV SDK
+- ⚡ Retrofit (consumo de API IPTV)
+- ▶️ ExoPlayer / VLC (player de vídeo)
+- 🔥 Firebase (autenticação e dados)
+- 🧠 Cache em memória para performance
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home
+<p align="center">
+  <img src="screenshots/home.png" width="300"/>
+</p>
+
+### 📡 Live TV
+<p align="center">
+  <img src="screenshots/live-tv.png" width="300"/>
+</p>
+
+### ▶️ Player
+<p align="center">
+  <img src="screenshots/player.png" width="300"/>
+</p>
+
+---
+
+## 🎥 Demonstração
+
+Vídeo do app em funcionamento:  
+(cole aqui o link do YouTube ou Google Drive)
+
+---
+
+## 💼 Sobre o projeto
+
+Este projeto foi desenvolvido como prática avançada em desenvolvimento Android, com foco em aplicações para TV, consumo de APIs, otimização de performance e experiência do usuário.
+
+---
+
+## 🔒 Observação
+
+Projeto privado. O código-fonte não está disponível publicamente.  
+Demonstração disponível através de screenshots e vídeo.
+
+---
 
 
 ![WhatsApp Image 2026-04-05 at 17 30 31](https://github.com/user-attachments/assets/0b0896db-5243-499f-8869-c930539c892c)
