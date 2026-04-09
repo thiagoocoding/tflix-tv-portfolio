@@ -32,26 +32,11 @@ Aplicativo IPTV desenvolvido em Kotlin para Android TV, com foco em performance,
 ## 📸 Screenshots
 
 ### 🏠 Home
-<p align="center">
-  <img src="screenshots/home.png" width="300"/>
-</p>
 
 ### 📡 Live TV
-<p align="center">
-  <img src="screenshots/live-tv.png" width="300"/>
-</p>
 
 ### ▶️ Player
-<p align="center">
-  <img src="screenshots/player.png" width="300"/>
-</p>
 
----
-
-## 🎥 Demonstração
-
-Vídeo do app em funcionamento:  
-(cole aqui o link do YouTube ou Google Drive)
 
 ---
 
